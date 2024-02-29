@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ritwik Kumar Gupta</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="coding" width="400" src="[https://www.bing.com/images/search?view=detailV2&ccid=%2bEGsK%2b%2bu&id=25D6A4C5E7BEF11F1591E29A3EB804CC79F1D62E&thid=OIP.-EGsK--u3aJAxVoGsjsz7AHaFj&mediaurl=https%3a%2f%2fmiro.medium.com%2fmax%2f1600%2f0*C-cPP9D2MIyeexAT.gif&exph=600&expw=800&q=coding+gif&simid=608037142108338859&FORM=IRPRST&ck=F9E87EBE63FAB3D2E0727BEA52A4C648&selectedIndex=119&itb=0](https://www.bing.com/images/search?view=detailV2&ccid=VON9gHTr&id=E43A15DF70EF8C7D6F8C281CB6211E2B48C97D7D&thid=OIP.VON9gHTrzeHZbHfXsqfzEAHaEq&mediaurl=https%3a%2f%2fi.pinimg.com%2foriginals%2f54%2fe3%2f7d%2f54e37d8074ebcde1d96c77d7b2a7f310.gif&exph=428&expw=680&q=coding+gif&simid=608048923199889487&FORM=IRPRST&ck=6294EFF82FC0C22485390F41259680AA&selectedIndex=39&itb=0)">
+<img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/f1f2bc6e7ec110b34bab4ec55aa5c93ebae552ae011f5756bd7b7f783d627a6d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313136323037372f73637265656e73686f74732f333834383931342f70726f6772616d6d65722e676966">
+
 - 🌱 I’m currently learning **ReactJS, NodeJS**
 
 - 👨‍💻 All of my projects are available at [https://ritwik214.github.io/3d-portfolio/](https://ritwik214.github.io/3d-portfolio/)
