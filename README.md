@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ritwik Kumar Gupta</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-
+<img align="right" alt="coding" width="400" src="https://www.bing.com/images/search?view=detailV2&ccid=%2bEGsK%2b%2bu&id=25D6A4C5E7BEF11F1591E29A3EB804CC79F1D62E&thid=OIP.-EGsK--u3aJAxVoGsjsz7AHaFj&mediaurl=https%3a%2f%2fmiro.medium.com%2fmax%2f1600%2f0*C-cPP9D2MIyeexAT.gif&exph=600&expw=800&q=coding+gif&simid=608037142108338859&FORM=IRPRST&ck=F9E87EBE63FAB3D2E0727BEA52A4C648&selectedIndex=119&itb=0">
 - 🌱 I’m currently learning **ReactJS, NodeJS**
 
 - 👨‍💻 All of my projects are available at [https://ritwik214.github.io/3d-portfolio/](https://ritwik214.github.io/3d-portfolio/)
